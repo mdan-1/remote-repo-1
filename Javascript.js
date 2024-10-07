@@ -10,9 +10,6 @@ function countDown(value) {
         value--;
     }
 }
-function CountUp(value) {
-    
-}
 //press ctrl+space to reopen the intelliSense list after period.
 
 let address = '7922 Cedar View Blvd';
